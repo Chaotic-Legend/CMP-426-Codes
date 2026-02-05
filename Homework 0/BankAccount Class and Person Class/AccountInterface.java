@@ -71,5 +71,4 @@ public interface AccountInterface {
 	 */
 	public double getBalance();
 	
-
 }
