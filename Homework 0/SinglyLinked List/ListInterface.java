@@ -1,7 +1,7 @@
 /** 
  *
  * @param <I> This is the interface for the List Abstract Data Type (ADT).
- * Please note that this interface uses the generic type I which either implements the Comparable interface , or some super class of I implements the Comparable interface
+ * Please note that this interface uses the generic type I, which either implements the Comparable interface, or some superclass of I implements the Comparable interface
  */
 public interface ListInterface <I extends java.lang.Comparable<? super I>>{
 	
