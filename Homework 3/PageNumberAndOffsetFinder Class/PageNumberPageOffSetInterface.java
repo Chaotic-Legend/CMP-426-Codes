@@ -1,5 +1,3 @@
-
-
 /** 
  * 
  * Write a Java program called PageNumberAndOffsetFinder that implements this given interface. 
